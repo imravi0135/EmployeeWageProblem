@@ -2,5 +2,6 @@
 //Console.WriteLine("Hello, World!");
 //EmployeeWageProblem.UC2_EmployeeDailyWage.GetAttendence();
 //EmployeeWageProblem.UC4_EmpWageUsingSwitch.EmpWage();
-EmployeeWageProblem.EmployeeWageProblem.CalculateWageForMonth.CalculateWagesFor20DaysInMonth();
+//EmployeeWageProblem.EmployeeWageProblem.CalculateWageForMonth.CalculateWagesFor20DaysInMonth();
+EmployeeWageProblem.EmployeeWageProblem.CalculateWageUsingWhileLoop.CalculateWageTill100HrsOr20IsReached();
 
